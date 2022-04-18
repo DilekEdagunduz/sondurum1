@@ -1,0 +1,10 @@
+﻿1) Fiyatı 50 den küçük kaç adet ürün var?
+2) CategoryId si 3 ve SupplierId si 2 olan kaç adet ürün var?
+3) Fiyatı 50-100 arasında kaç adet ürün var?
+4) İsmi a harfi ile başlayan ürünleri console a yazdır.
+5) İsmi a harfi ile biten ürünleri console a yazdır.
+6) İsminde a harfi geçen ürünleri ekrana yazdır
+7) Stok adedi 10 un altında kalan kaç ürün var?
+8) Stok adedi 10 un altında olan ürünleri console a yazdır.
+9) Tüm ürünlerin ortalama fiyatı nedir?
+10) CategoryId si 3 olan ürünlerin ortalama fiyatı nedir?

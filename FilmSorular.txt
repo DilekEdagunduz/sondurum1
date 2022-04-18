@@ -1,0 +1,15 @@
+﻿1) Dışarıdan bir film adı alan ve bu filmin hangi yıla ait olduğunu bana dönen metot
+2) Dışarıdan yıl alan ve o yıla ait filmleri bana veren metot
+3) Dışarıdan 2 yıl alan ve o 2 yıl arasındaki filmleri bana veren metot
+4) Filmlerin rating ortalaması bana veren metot?
+
+Sorular
+
+//1) Dışarıdan 2 rating alıyor ve bu iki rating arasında kaç ADET film olduğunu söyleyen metot
+//2)  Dışarıdan 2 rating alıyor ve bu iki rating arasındaki filmleri ratinge göre sıralayıp bana veren metot
+
+//3) Ratingi en yüksek filmi bana veren metot
+//4) Ratingi en düşük filmi bana veren metot
+//5) Dışarıdan bir rating alan ve bu ratingden yüksek ve A harfi ile başlayan filmleri bana veren metot
+//
+

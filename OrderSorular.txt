@@ -1,0 +1,6 @@
+﻿1) 1997 yılında kaç adet sipariş verilmiş? (OrderDate)
+2) 1997 Ocak ayındaki siparişleri ekrana yaz? (OrderDate)
+3) EmployeeId 1 olan ve 1997 yılındaki siparişleri ekrana yaz.
+4) *** GECİKEN SİPARİŞLERİMİN ADEDİ NEDİR? ***
+5) Taşıma ücreti olmayan ( freight ) siparişlerimi ekrana yazdır.
+6) Taşıma ücreti 5 in altında olan ( freight )  siparişlerimi ekrana yazdır
